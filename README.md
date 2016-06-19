@@ -1,5 +1,5 @@
 # CryFS-Cloud-Sync
-Sync Folder with encripted files in the cloud 
+Sync Folder with encrypted files in the cloud 
 
 # Setup
 To setup run: install.sh as root.
