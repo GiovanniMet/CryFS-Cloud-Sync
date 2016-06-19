@@ -1,0 +1,10 @@
+#These directories may be excluded:
+.gvfs                           # contains mounted file systems?
+.local/share/gvfs-metadata
+.Private                        # contains the actual encrypted home directory
+.dbus                           # session-specific
+.cache
+.Trash                          # do I need to say more?
+.local/share/Trash
+.cddb                           # cached info about audio CDs
+.aptitude                       # cached packages lists
