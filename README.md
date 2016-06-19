@@ -2,6 +2,9 @@
 Sync Folder with encrypted files in the cloud 
 
 # Setup
+wget https://github.com/GiovanniMet/CryFS-Cloud-Sync/raw/master/CryFS-Cloud-Sync.zip
+unzip CryFS-Cloud-Sync.zip
+
 To setup run: install.sh as root.
 
 # Use
