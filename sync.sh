@@ -34,6 +34,5 @@ done < $FOLDER
 fusermount -u "/home/$USER/$CRYFS"
 #Enjoy
 ###
-# You can setup a cronjob every hour easy with "crontab -e"
-# @hourly /path/to/sync.sh
+# Make Backup first of run, you can loose all your data if CryFS fail.
 ###
